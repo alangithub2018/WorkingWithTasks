@@ -1,0 +1,14 @@
+C:\Users\maste\Documents\Concurrency\StartingTasks\bin\Debug\net9.0\StartingTasks.exe
+C:\Users\maste\Documents\Concurrency\StartingTasks\bin\Debug\net9.0\StartingTasks.deps.json
+C:\Users\maste\Documents\Concurrency\StartingTasks\bin\Debug\net9.0\StartingTasks.runtimeconfig.json
+C:\Users\maste\Documents\Concurrency\StartingTasks\bin\Debug\net9.0\StartingTasks.dll
+C:\Users\maste\Documents\Concurrency\StartingTasks\bin\Debug\net9.0\StartingTasks.pdb
+C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\StartingTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\StartingTasks.AssemblyInfoInputs.cache
+C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\StartingTasks.AssemblyInfo.cs
+C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\StartingTasks.csproj.CoreCompileInputs.cache
+C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\StartingTasks.dll
+C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\refint\StartingTasks.dll
+C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\StartingTasks.pdb
+C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\StartingTasks.genruntimeconfig.cache
+C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\ref\StartingTasks.dll
