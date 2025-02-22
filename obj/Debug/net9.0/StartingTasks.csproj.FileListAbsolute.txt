@@ -12,3 +12,4 @@ C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\refint\Start
 C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\StartingTasks.pdb
 C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\StartingTasks.genruntimeconfig.cache
 C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\ref\StartingTasks.dll
+C:\Users\maste\Documents\Concurrency\StartingTasks\obj\Debug\net9.0\StartingTasks.sourcelink.json
